@@ -6,4 +6,4 @@
 __pycache__/
 .venv
 my_env
-cleveland.csv
+*.csv
